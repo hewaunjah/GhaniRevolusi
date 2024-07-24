@@ -2,8 +2,10 @@ TUJUAN SAYA DI TAHUN 2024
 1. Tujuan saya menjadi orang sukses
 2. Tujuan saya menjadi Fullstack Engineer
 3. Tujuan saya menjadi AI Engineer
-4. Tujuan saya bisa bahasa prmrograman:
+4. Tujuan saya bisa Bahasa Pemrograman:
     - Python
     - Javascript
     - Java
     - Dart
+    - C++
+    - C#
