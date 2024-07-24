@@ -5,7 +5,6 @@ TUJUAN SAYA DI TAHUN 2024
 4. Tujuan saya bisa Bahasa Pemrograman:
     - Python
     - Javascript
-    - Java
     - Dart
     - C++
     - C#
